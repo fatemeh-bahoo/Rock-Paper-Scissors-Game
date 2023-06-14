@@ -1,0 +1,36 @@
+body{
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    font-family: 'Black Ops One', cursive;
+  }
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+
+  }
+
+  .rockscissorspaper {
+    text-align: center;
+    display: inline-block;
+    padding: 5% 10% 10%;
+
+}
+
+img{
+    width: 50%;
+}
+
+h1 {
+    margin: 10px;
+    text-shadow: 5px 0 #232931;
+    font-size: 3.5rem;
+    color: #fff;
+
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #fff;
+
+  }
